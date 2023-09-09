@@ -1,0 +1,7 @@
+{
+    "name":"fastapi development",
+    "build":{
+        "context": "..",
+        "dockerfile": "../Dockerfile"
+    }
+}
